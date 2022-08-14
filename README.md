@@ -13,6 +13,10 @@ py main.py
 ## Short description
 Space Invaders is a short 2D game consisted of three levels (+ one boss level), menu and short story related texts. I won't be precisely describing every element, because it would spoiler the game, wouldn't it?
 
+### Controls
+- WASD - player movement
+- Space - selecting items from menu, skipping texts and shooting
+
 ## Music
 When choosing music to my game I tried not to violate any of the copyright laws, but if - after all - I have violated any of them, please contact me to remove music from this repository.
 
