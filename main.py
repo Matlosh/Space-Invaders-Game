@@ -6,7 +6,7 @@ def main():
     pygame.init()
 
     # Initializing screen
-    screen = pygame.display.set_mode((640, 480), flags=pygame.SCALED)
+    screen = pygame.display.set_mode((640, 480), flags=pygame.SCALED | pygame.RESIZABLE)
     pygame.display.set_caption('Space Invaders')
     # Setting game icon
     icon = load_image('data/sprites/enemy_1.png', max_size=(32, 32))
