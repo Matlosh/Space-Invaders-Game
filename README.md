@@ -1,5 +1,5 @@
 # Space Invaders Game
-*Now you can fight with unkown civilization!*
+*Now you can fight with unknown civilization!*
 
 ## About
 Space Invaders is the game I made for fun with the help of the pygame library in one week.
@@ -27,7 +27,7 @@ Gameplay screenshot from the first level:
 ![Gameplay screenshot](images/gameplay_1.png)
 
 ## Note
-Please that this game (and sprites, music, etc.) with distance, because I'm really bad with making things like graphic elements, so I'm fully aware that this game looks... like it looks. But despite everything of this I believe anyone who will try to play it will have even a slight fun.
+Please take this game (and sprites, music, etc.) with distance, because I'm really bad with making things like graphic elements, so I'm fully aware that this game looks... like it looks. But despite everything I believe anyone who will try to play this game will have even a slight fun.
 
 ## Game state
-**Game is fully finished (meaning all level, enemies, etc. should be properly working). Game could receive small bugfixes (if any will be found) in the future.**
+**Game is fully finished (meaning all levels, enemies, etc. should be properly working). Game could receive small bugfixes (if any will be found) in the future.**
